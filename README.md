@@ -16,4 +16,3 @@ This project is a **responsive product landing page** for an e-commerce site sho
 - **Remix Icon** for adding modern icons to buttons and links.
 
 This project is perfect for showcasing a product or a simple landing page for an e-commerce site with minimal design.
-
